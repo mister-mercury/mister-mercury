@@ -1,45 +1,27 @@
-<!-- ### Hi there 👋
-
-<!--
-**mister-mercury/mister-mercury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- -->
- 
- <h1 align="center">Hi 👋, I'm Hardik Gupta</h1>
-<h3 align="center">Budding blockchain and web devloper</h3>
+# 💫 About Me:
+🔭 I’m currently working on Web Dev Projects<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Blockchain<br>🌱 I’m currently learning React<br>⚡ Fun fact - I play and rage at chess<br>📫 How to reach me ghardik258@gmail.com
 <img align="right" alt="CSS is irritating" width="400" src="https://i0.wp.com/i.giphy.com/media/yYSSBtDgbbRzq/giphy-downsized.gif?w=770&ssl=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mister-mercury&label=Profile%20views&color=0e75b6&style=flat" alt="mister-mercury" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mister.mercury.24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mister-mercury) 
 
-- 🔭 I’m currently working on **Blockchain**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mister-mercury&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mister-mercury&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mister-mercury&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **React**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mister-mercury&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 I’m looking to collaborate on **Open source projects**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🤝 I’m looking for help with **Web development**
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-- 📫 How to reach me **ghardik258@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=mister-mercury&icon=7&color=2)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I play chess**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mister.mercury.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mister.mercury.24" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mister-mercury&" alt="mister-mercury" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
