@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Web Dev Projects</b><br>👯 I’m looking to collaborate on <b>Open Source Projects</b><br>🤝 I’m looking for help with <b>Blockchain</b><br>🌱 I’m currently learning <b>React</b><br>⚡ Fun fact - <b>I play and rage at chess</b>><br>📫 How to reach me <b>ghardik258@gmail.com</b>
+🔭 I’m currently working on <b>Web Dev Projects</b><br>👯 I’m looking to collaborate on <b>Open Source Projects</b><br>🌱 I’m currently learning <b>MERN</b><br>⚡ Fun fact - <b>I play and rage at chess</b><br>📫 How to reach me <b>ghardik258@gmail.com</b>
 <img align="right" alt="CSS is irritating" width="400" src="https://i0.wp.com/i.giphy.com/media/yYSSBtDgbbRzq/giphy-downsized.gif?w=770&ssl=1">
 
 ## 🌐 Socials:
